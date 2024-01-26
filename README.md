@@ -1,11 +1,12 @@
-<h2 align="center">Hello, I'm Michael Garcia!</h2>
----
-[Website](https://progressionstudios.com/) | [Twitter](https://twitter.com/progression_S)
+<h2 align="center">👋 Hello, I'm Michael Garcia!</h2>
+<p align="center">
+  <a href="https://progressionstudios.com/">Blog</a> •
+  <a href="https://twitter.com/progression_S">Twitter</a>
+</p>
 
-
-* :+1: I'm a WordPress Developer from Santa Rosa, California.
-* I run Progression Studios and specialize in creating WordPress Themes.
-* I'm currently working on creating Custom Gutenberg Blocks and WordPress Full Site Editing.
+* 🌲 I'm a WordPress Developer from Santa Rosa, California.
+* 🏃 I run Progression Studios and specialize in creating WordPress Themes.
+* 🔧 I'm currently working on creating Custom Gutenberg Blocks and WordPress Full Site Editing.
 
 <!--
 **ProgressionStudios/ProgressionStudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
