@@ -4,7 +4,7 @@
   <a href="https://twitter.com/progression_S">Twitter</a>
 </p><br>
 
-* 🌲 I'm a WordPress Developer from Santa Rosa, California.
+* 🌲 I'm a WordPress Developer located in Santa Rosa, California.
 * 🏃 I run Progression Studios and specialize in creating WordPress Themes.
 * 🔧 I'm currently working on creating Custom Gutenberg Blocks and Full Site Editing.
 
